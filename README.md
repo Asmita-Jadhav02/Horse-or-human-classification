@@ -2,10 +2,12 @@
 A machine learning project to take input of an image and classify it to horse or human
 
 Problem Statement :
+
 To classify images as horse or human using image processing in Machine
 Learning.
 
 Introduction:
+
 This project is using the tensorflow, keras, numpy and matplotlib libraries.
 The model is trained using horse or human dataset.
 The model is a sequential convolutional neural network model, with one
@@ -20,5 +22,7 @@ The output prints the images uploaded along with their respective predicted
 classes.
 
 Dataset Information:
+
 Link for Training and validation dataset :
+
 https://www.kaggle.com/datasets/sanikamal/horses-or-humans-dataset
